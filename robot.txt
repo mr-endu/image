@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://movietop.store/sitemap.xml
